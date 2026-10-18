@@ -10,7 +10,8 @@ Diseño conceptual de un centro de datos espacial hecho de muchísimos chips sim
 
 La idea central es hacer lo contrario a la industria: en vez de meter chips muy potentes en poco espacio y luchar para enfriarlos, usar chips más débiles que aguantan calor, separados unos de otros, para que cada uno se enfríe solo irradiando al espacio.
 
-📄 **Documento completo:** [Proyecto-Enjambre-ABCDS.pdf](Proyecto-Enjambre-ABCDS.pdf)
+📄 **Documento completo (español):** [Proyecto-Enjambre-ABCDS.pdf](Proyecto-Enjambre-ABCDS.pdf)
+🇺🇸 **Full document (English):** [Enjambre-ABCDS-Project-EN.pdf](Enjambre-ABCDS-Project-EN.pdf) · [architecture diagram](architecture-en.png)
 
 ![Arquitectura ABCDS](arquitectura.png)
 
