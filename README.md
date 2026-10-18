@@ -2,6 +2,10 @@
 
 **Autor:** Santiago González · **Fecha de la idea:** 18 de octubre de 2026
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23448232.svg)](https://doi.org/10.5281/zenodo.23448232)
+
+**Registro público en Zenodo:** [10.5281/zenodo.23448232](https://doi.org/10.5281/zenodo.23448232) (versión 1) · todas las versiones: [10.5281/zenodo.23448231](https://doi.org/10.5281/zenodo.23448231)
+
 Diseño conceptual de un centro de datos espacial hecho de muchísimos chips simples y resistentes al calor, repartidos en un área enorme y organizados como una empresa.
 
 La idea central es hacer lo contrario a la industria: en vez de meter chips muy potentes en poco espacio y luchar para enfriarlos, usar chips más débiles que aguantan calor, separados unos de otros, para que cada uno se enfríe solo irradiando al espacio.
@@ -34,4 +38,8 @@ Concepto publicado como registro de autoría. El documento incluye números apro
 
 ## Licencia y citas
 
-© 2026 Santiago González. Puedes leer, compartir y citar este trabajo dando crédito al autor.
+© 2026 Santiago González. Licencia [Creative Commons Attribution Non Commercial No Derivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/): puedes leer, compartir y citar este trabajo dando crédito al autor, sin uso comercial ni modificaciones.
+
+**Cómo citarlo:**
+
+> González, S. (2026). *Proyecto Enjambre ABCDS: diseño de un centro de datos espacial distribuido con chips resistentes al calor*. Zenodo. https://doi.org/10.5281/zenodo.23448232
